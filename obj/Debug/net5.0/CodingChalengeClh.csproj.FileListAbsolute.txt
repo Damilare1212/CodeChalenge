@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\CodingChalengeClh\bin\Debug\net5.0\CodingChalengeClh.exe
+C:\Users\USER\Desktop\CodingChalengeClh\bin\Debug\net5.0\CodingChalengeClh.deps.json
+C:\Users\USER\Desktop\CodingChalengeClh\bin\Debug\net5.0\CodingChalengeClh.runtimeconfig.json
+C:\Users\USER\Desktop\CodingChalengeClh\bin\Debug\net5.0\CodingChalengeClh.runtimeconfig.dev.json
+C:\Users\USER\Desktop\CodingChalengeClh\bin\Debug\net5.0\CodingChalengeClh.dll
+C:\Users\USER\Desktop\CodingChalengeClh\bin\Debug\net5.0\ref\CodingChalengeClh.dll
+C:\Users\USER\Desktop\CodingChalengeClh\bin\Debug\net5.0\CodingChalengeClh.pdb
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\CodingChalengeClh.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\CodingChalengeClh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\CodingChalengeClh.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\CodingChalengeClh.AssemblyInfo.cs
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\CodingChalengeClh.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\CodingChalengeClh.dll
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\ref\CodingChalengeClh.dll
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\CodingChalengeClh.pdb
+C:\Users\USER\Desktop\CodingChalengeClh\obj\Debug\net5.0\CodingChalengeClh.genruntimeconfig.cache
